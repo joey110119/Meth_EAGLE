@@ -3,7 +3,7 @@
 ## Base On EAGLE
 * https://github.com/tony-kuo/eagle
 * Kuo, T., Frith, M. C., Sese, J., & Horton, P. (2018). EAGLE: Explicit Alternative Genome Likelihood Evaluator. BMC Medical Genomics, 11, [28]. https://doi.org/10.1186/s12920-018-0342-1
-* 
+
 ## Meth_EAGLE Input
 * reference file
 * read file

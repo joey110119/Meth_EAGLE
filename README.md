@@ -4,6 +4,16 @@
 * https://github.com/tony-kuo/eagle
 * Kuo, T., Frith, M. C., Sese, J., & Horton, P. (2018). EAGLE: Explicit Alternative Genome Likelihood Evaluator. BMC Medical Genomics, 11, [28]. https://doi.org/10.1186/s12920-018-0342-1
 
+## Usage
+### Compile:
+```
+make
+```
+### Execution:
+```
+eagle -v variants.vcf -a alignment.bam -r reference.fasta > output.tab
+```
+
 ## Detailed Description of Meth-EAGLE
 ### Meth-EAGLE can do:
 #### 1. "variant quality scores":
